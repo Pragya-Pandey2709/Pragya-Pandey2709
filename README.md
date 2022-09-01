@@ -25,7 +25,9 @@ I am a AI/ML and Data Science Practitioner aiming to break into field of Buisnes
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/pragya-pandey-775339208/))
+- :mailbox:How to reach me:<a href="https://www.linkedin.com/in/pragya-pandey-775339208/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 - ---
 
 ### :hammer_and_wrench: Languages and Tools :
